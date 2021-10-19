@@ -2,7 +2,7 @@
 
 Classify hazelnuts using a Raspberry Pi.
 
-See detailed explanation in this blog post: [Classifying hazelnuts using a Raspberry Pi](https://www.kleemans.ch/post/classifying-hazelnuts/)
+See detailed explanation in this blog post: [Classifying hazelnuts using a Raspberry Pi](https://www.kleemans.ch/classifying-hazelnuts-using-a-raspberry-pi)
 
 ### Flow
 
